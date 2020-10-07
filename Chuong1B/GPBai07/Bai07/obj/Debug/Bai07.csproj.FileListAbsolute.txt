@@ -1,0 +1,6 @@
+D:\THCSharp\Nhom3\Chuong1B\GTBai07\Bai07\bin\Debug\Bai07.exe.config
+D:\THCSharp\Nhom3\Chuong1B\GTBai07\Bai07\bin\Debug\Bai07.exe
+D:\THCSharp\Nhom3\Chuong1B\GTBai07\Bai07\bin\Debug\Bai07.pdb
+D:\THCSharp\Nhom3\Chuong1B\GTBai07\Bai07\obj\Debug\Bai07.csprojResolveAssemblyReference.cache
+D:\THCSharp\Nhom3\Chuong1B\GTBai07\Bai07\obj\Debug\Bai07.exe
+D:\THCSharp\Nhom3\Chuong1B\GTBai07\Bai07\obj\Debug\Bai07.pdb

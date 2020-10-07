@@ -1,0 +1,10 @@
+D:\THCSharp\Nhom3\Chuong2_example\Vidu2\Vidu2\bin\Debug\Vidu2.exe.config
+D:\THCSharp\Nhom3\Chuong2_example\Vidu2\Vidu2\bin\Debug\Vidu2.exe
+D:\THCSharp\Nhom3\Chuong2_example\Vidu2\Vidu2\bin\Debug\Vidu2.pdb
+D:\THCSharp\Nhom3\Chuong2_example\Vidu2\Vidu2\obj\Debug\Vidu2.csprojResolveAssemblyReference.cache
+D:\THCSharp\Nhom3\Chuong2_example\Vidu2\Vidu2\obj\Debug\Vidu2.Form1.resources
+D:\THCSharp\Nhom3\Chuong2_example\Vidu2\Vidu2\obj\Debug\Vidu2.Form2.resources
+D:\THCSharp\Nhom3\Chuong2_example\Vidu2\Vidu2\obj\Debug\Vidu2.Properties.Resources.resources
+D:\THCSharp\Nhom3\Chuong2_example\Vidu2\Vidu2\obj\Debug\Vidu2.csproj.GenerateResource.Cache
+D:\THCSharp\Nhom3\Chuong2_example\Vidu2\Vidu2\obj\Debug\Vidu2.exe
+D:\THCSharp\Nhom3\Chuong2_example\Vidu2\Vidu2\obj\Debug\Vidu2.pdb

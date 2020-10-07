@@ -1,0 +1,5 @@
+D:\THCSharp\Nhom3\Chuong1A\GPBai05\Bai05\bin\Debug\Bai05.exe.config
+D:\THCSharp\Nhom3\Chuong1A\GPBai05\Bai05\bin\Debug\Bai05.exe
+D:\THCSharp\Nhom3\Chuong1A\GPBai05\Bai05\bin\Debug\Bai05.pdb
+D:\THCSharp\Nhom3\Chuong1A\GPBai05\Bai05\obj\Debug\Bai05.exe
+D:\THCSharp\Nhom3\Chuong1A\GPBai05\Bai05\obj\Debug\Bai05.pdb
