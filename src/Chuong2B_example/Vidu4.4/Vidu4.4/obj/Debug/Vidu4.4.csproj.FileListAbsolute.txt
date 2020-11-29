@@ -1,0 +1,8 @@
+D:\THCSharp\Nhom3\Chuong2B_example\Vidu4.4\Vidu4.4\bin\Debug\Vidu4.4.exe.config
+D:\THCSharp\Nhom3\Chuong2B_example\Vidu4.4\Vidu4.4\bin\Debug\Vidu4.4.exe
+D:\THCSharp\Nhom3\Chuong2B_example\Vidu4.4\Vidu4.4\bin\Debug\Vidu4.4.pdb
+D:\THCSharp\Nhom3\Chuong2B_example\Vidu4.4\Vidu4.4\obj\Debug\Vidu4._4.FormTimer.resources
+D:\THCSharp\Nhom3\Chuong2B_example\Vidu4.4\Vidu4.4\obj\Debug\Vidu4._4.Properties.Resources.resources
+D:\THCSharp\Nhom3\Chuong2B_example\Vidu4.4\Vidu4.4\obj\Debug\Vidu4.4.csproj.GenerateResource.Cache
+D:\THCSharp\Nhom3\Chuong2B_example\Vidu4.4\Vidu4.4\obj\Debug\Vidu4.4.exe
+D:\THCSharp\Nhom3\Chuong2B_example\Vidu4.4\Vidu4.4\obj\Debug\Vidu4.4.pdb

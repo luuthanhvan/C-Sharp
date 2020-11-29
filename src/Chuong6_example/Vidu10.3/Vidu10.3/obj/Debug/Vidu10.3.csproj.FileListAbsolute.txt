@@ -1,0 +1,9 @@
+D:\THCSharp\Nhom3\Chuong6_example\Vidu10.3\Vidu10.3\bin\Debug\Vidu10.3.exe.config
+D:\THCSharp\Nhom3\Chuong6_example\Vidu10.3\Vidu10.3\bin\Debug\Vidu10.3.exe
+D:\THCSharp\Nhom3\Chuong6_example\Vidu10.3\Vidu10.3\bin\Debug\Vidu10.3.pdb
+D:\THCSharp\Nhom3\Chuong6_example\Vidu10.3\Vidu10.3\obj\Debug\Vidu10.3.csprojResolveAssemblyReference.cache
+D:\THCSharp\Nhom3\Chuong6_example\Vidu10.3\Vidu10.3\obj\Debug\Vidu10._3.FormShowDataGridViewComboBox.resources
+D:\THCSharp\Nhom3\Chuong6_example\Vidu10.3\Vidu10.3\obj\Debug\Vidu10._3.Properties.Resources.resources
+D:\THCSharp\Nhom3\Chuong6_example\Vidu10.3\Vidu10.3\obj\Debug\Vidu10.3.csproj.GenerateResource.Cache
+D:\THCSharp\Nhom3\Chuong6_example\Vidu10.3\Vidu10.3\obj\Debug\Vidu10.3.exe
+D:\THCSharp\Nhom3\Chuong6_example\Vidu10.3\Vidu10.3\obj\Debug\Vidu10.3.pdb

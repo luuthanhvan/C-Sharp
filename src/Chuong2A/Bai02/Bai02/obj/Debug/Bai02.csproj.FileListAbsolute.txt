@@ -1,0 +1,9 @@
+D:\THCSharp\Nhom3\Chuong2A\Bai02\Bai02\bin\Debug\Bai02.exe.config
+D:\THCSharp\Nhom3\Chuong2A\Bai02\Bai02\bin\Debug\Bai02.exe
+D:\THCSharp\Nhom3\Chuong2A\Bai02\Bai02\bin\Debug\Bai02.pdb
+D:\THCSharp\Nhom3\Chuong2A\Bai02\Bai02\obj\Debug\Bai02.Properties.Resources.resources
+D:\THCSharp\Nhom3\Chuong2A\Bai02\Bai02\obj\Debug\Bai02.csproj.GenerateResource.Cache
+D:\THCSharp\Nhom3\Chuong2A\Bai02\Bai02\obj\Debug\Bai02.exe
+D:\THCSharp\Nhom3\Chuong2A\Bai02\Bai02\obj\Debug\Bai02.pdb
+D:\THCSharp\Nhom3\Chuong2A\Bai02\Bai02\obj\Debug\Bai02.csprojResolveAssemblyReference.cache
+D:\THCSharp\Nhom3\Chuong2A\Bai02\Bai02\obj\Debug\Bai02.FormFirstDegreeEquation.resources

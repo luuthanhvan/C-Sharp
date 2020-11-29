@@ -1,0 +1,9 @@
+D:\THCSharp\Nhom3\Chuong2_example\Vidu3\Vidu3\bin\Debug\Vidu3.exe.config
+D:\THCSharp\Nhom3\Chuong2_example\Vidu3\Vidu3\bin\Debug\Vidu3.exe
+D:\THCSharp\Nhom3\Chuong2_example\Vidu3\Vidu3\bin\Debug\Vidu3.pdb
+D:\THCSharp\Nhom3\Chuong2_example\Vidu3\Vidu3\obj\Debug\Vidu3.csprojResolveAssemblyReference.cache
+D:\THCSharp\Nhom3\Chuong2_example\Vidu3\Vidu3\obj\Debug\Vidu3.FormWebLinks.resources
+D:\THCSharp\Nhom3\Chuong2_example\Vidu3\Vidu3\obj\Debug\Vidu3.Properties.Resources.resources
+D:\THCSharp\Nhom3\Chuong2_example\Vidu3\Vidu3\obj\Debug\Vidu3.csproj.GenerateResource.Cache
+D:\THCSharp\Nhom3\Chuong2_example\Vidu3\Vidu3\obj\Debug\Vidu3.exe
+D:\THCSharp\Nhom3\Chuong2_example\Vidu3\Vidu3\obj\Debug\Vidu3.pdb

@@ -1,0 +1,8 @@
+D:\THCSharp\Nhom3\Chuong6_example\Vidu10.2\Vidu10.2\bin\Debug\Vidu10.2.exe.config
+D:\THCSharp\Nhom3\Chuong6_example\Vidu10.2\Vidu10.2\obj\Debug\Vidu10._2.FormShowDataGridView.resources
+D:\THCSharp\Nhom3\Chuong6_example\Vidu10.2\Vidu10.2\obj\Debug\Vidu10._2.Properties.Resources.resources
+D:\THCSharp\Nhom3\Chuong6_example\Vidu10.2\Vidu10.2\obj\Debug\Vidu10.2.csproj.GenerateResource.Cache
+D:\THCSharp\Nhom3\Chuong6_example\Vidu10.2\Vidu10.2\bin\Debug\Vidu10.2.exe
+D:\THCSharp\Nhom3\Chuong6_example\Vidu10.2\Vidu10.2\bin\Debug\Vidu10.2.pdb
+D:\THCSharp\Nhom3\Chuong6_example\Vidu10.2\Vidu10.2\obj\Debug\Vidu10.2.exe
+D:\THCSharp\Nhom3\Chuong6_example\Vidu10.2\Vidu10.2\obj\Debug\Vidu10.2.pdb

@@ -1,0 +1,10 @@
+D:\THCSharp\Nhom3\Chuong2A\Bai05\Bai05\bin\Debug\Bai05.exe.config
+D:\THCSharp\Nhom3\Chuong2A\Bai05\Bai05\bin\Debug\Bai05.exe
+D:\THCSharp\Nhom3\Chuong2A\Bai05\Bai05\bin\Debug\Bai05.pdb
+D:\THCSharp\Nhom3\Chuong2A\Bai05\Bai05\obj\Debug\Bai05.csprojResolveAssemblyReference.cache
+D:\THCSharp\Nhom3\Chuong2A\Bai05\Bai05\obj\Debug\Bai05.FormAssignment5.resources
+D:\THCSharp\Nhom3\Chuong2A\Bai05\Bai05\obj\Debug\Bai05.Properties.Resources.resources
+D:\THCSharp\Nhom3\Chuong2A\Bai05\Bai05\obj\Debug\Bai05.csproj.GenerateResource.Cache
+D:\THCSharp\Nhom3\Chuong2A\Bai05\Bai05\obj\Debug\Bai05.exe
+D:\THCSharp\Nhom3\Chuong2A\Bai05\Bai05\obj\Debug\Bai05.pdb
+D:\THCSharp\Nhom3\Chuong2A\Bai05\Bai05\obj\Debug\Bai01.FormMathOperator.resources

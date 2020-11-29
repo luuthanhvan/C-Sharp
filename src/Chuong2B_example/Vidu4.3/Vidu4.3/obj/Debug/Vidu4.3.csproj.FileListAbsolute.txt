@@ -1,0 +1,8 @@
+D:\THCSharp\Nhom3\Chuong2B_example\Vidu4.3\Vidu4.3\bin\Debug\Vidu4.3.exe.config
+D:\THCSharp\Nhom3\Chuong2B_example\Vidu4.3\Vidu4.3\bin\Debug\Vidu4.3.exe
+D:\THCSharp\Nhom3\Chuong2B_example\Vidu4.3\Vidu4.3\bin\Debug\Vidu4.3.pdb
+D:\THCSharp\Nhom3\Chuong2B_example\Vidu4.3\Vidu4.3\obj\Debug\Vidu4._3.FormTextTransform.resources
+D:\THCSharp\Nhom3\Chuong2B_example\Vidu4.3\Vidu4.3\obj\Debug\Vidu4._3.Properties.Resources.resources
+D:\THCSharp\Nhom3\Chuong2B_example\Vidu4.3\Vidu4.3\obj\Debug\Vidu4.3.csproj.GenerateResource.Cache
+D:\THCSharp\Nhom3\Chuong2B_example\Vidu4.3\Vidu4.3\obj\Debug\Vidu4.3.exe
+D:\THCSharp\Nhom3\Chuong2B_example\Vidu4.3\Vidu4.3\obj\Debug\Vidu4.3.pdb
